@@ -1,0 +1,6 @@
+train: /Users/bashir/Desktop/rice_leaf_diseases/rice_leaf_disease.v2i.yolov8/train/images
+val: /Users/bashir/Desktop/rice_leaf_diseases/rice_leaf_disease.v2i.yolov8/valid/images
+test: /Users/bashir/Desktop/rice_leaf_diseases/rice_leaf_disease.v2i.yolov8/test/images
+
+nc: 3
+names: ['Brownspot', 'Leafsmut', 'bacterial_leaf_blight']
